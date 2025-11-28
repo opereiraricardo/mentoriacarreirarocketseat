@@ -9,3 +9,6 @@ Nesta segunda atividade vamos criar o nosso plano de Profissional em T com a org
 </aside>
 
 Aqui segue, minha atividade
+
+
+https://github.com/opereiraricardo/mentoriacarreirarocketseat/blob/main/T-Ricardo-de-Oliveira-Pereira.png
